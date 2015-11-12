@@ -31,6 +31,8 @@ http://www.raywenderlich.com/13418/how-to-play-record-edit-videos-in-ios
 
 http://www.raywenderlich.com/30200/avfoundation-tutorial-adding-overlays-and-animations-to-videos
 
+https://github.com/rFlex/SCRecorder
+
 ### - Audio Manipulation
 http://stackoverflow.com/questions/21816215/is-it-possible-to-edit-the-volume-and-pan-of-a-videos-audio-track-and-export-to
 
