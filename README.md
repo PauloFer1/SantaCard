@@ -2,7 +2,7 @@
 
 # LINKS
 # +++++++++ IOS
----- Record video capture
+---- Record video capture \n
 http://www.appcoda.com/video-recording-playback-ios-programming/
 https://www.objc.io/issues/23-video/capturing-video/
 https://www.invasivecode.com/weblog/a-very-cool-custom-video-camera-with/
