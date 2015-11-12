@@ -11,9 +11,13 @@ https://www.invasivecode.com/weblog/a-very-cool-custom-video-camera-with/
 
 ##### - Custom Camera Top Layer (Buttons)
 http://www.musicalgeometry.com/?p=1273
+
 http://www.xmcgraw.com/learn-how-to-create-a-custom-camera-on-ios/
+
 http://www.code4app.net/category/camera
+
 https://www.youtube.com/watch?v=Xv1FfqVy-KM
+
 
 ### - OpenCV
 http://docs.opencv.org/2.4/doc/tutorials/ios/video_processing/video_processing.html
