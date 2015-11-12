@@ -1,7 +1,7 @@
 # SantaCard
 
 # LINKS
-## +++++++++ IOS
+# +++++++++ IOS
 ### - Record video capture 
 http://www.appcoda.com/video-recording-playback-ios-programming/
 
@@ -31,8 +31,21 @@ http://www.raywenderlich.com/13418/how-to-play-record-edit-videos-in-ios
 
 http://www.raywenderlich.com/30200/avfoundation-tutorial-adding-overlays-and-animations-to-videos
 
+### - Audio Manipulation
+http://stackoverflow.com/questions/21816215/is-it-possible-to-edit-the-volume-and-pan-of-a-videos-audio-track-and-export-to
 
-## +++++++++ ADOBE AIR
+http://developer.telerik.com/featured/merging-audio-video-native-ios/
+
+http://theamazingaudioengine.com
+
+https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine
+
+http://stackoverflow.com/questions/17164416/how-can-i-implement-equalizer-in-my-iphone-application
+
+https://developer.apple.com/library/ios/documentation/AudioUnit/Reference/AUComponentServicesReference/index.html#//apple_ref/doc/constant_group/Audio_Unit_Types
+
+
+# +++++++++ ADOBE AIR
 https://forums.adobe.com/thread/850789
 
 https://github.com/inspirit/CaptureDevice
