@@ -71,6 +71,9 @@ http://examples.javacodegeeks.com/android/core/hardware/camera-hardware/android-
 
 http://developer.android.com/intl/es/training/camera/videobasics.html
 
+##### - Video Procesing
+https://github.com/guardianproject/ObscuraCam/wiki/Video-capture-and-processing-ideas-techniques
+
 ### - Overlay Preview
 http://stackoverflow.com/questions/7466336/android-overlay-on-android-camera-preview
 
