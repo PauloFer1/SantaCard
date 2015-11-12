@@ -44,6 +44,8 @@ https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine
 
 http://stackoverflow.com/questions/17164416/how-can-i-implement-equalizer-in-my-iphone-application
 
+http://stackoverflow.com/questions/9169936/record-audio-video-with-avcapturesession-and-playback-audio-simultaneously
+
 https://developer.apple.com/library/ios/documentation/AudioUnit/Reference/AUComponentServicesReference/index.html#//apple_ref/doc/constant_group/Audio_Unit_Types
 
 
